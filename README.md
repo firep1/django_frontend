@@ -39,6 +39,7 @@ and then finally
 ```bash
 python manage.py runserver
 ```
+```bash
 python manage.py runserver 0.0.0.0:8000  to run in mobile
-
+```
 
