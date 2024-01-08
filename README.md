@@ -29,6 +29,10 @@ pip install -r requirements.txt
 ```
 change directory to project directory to run migrations and server
 ```bash
+pip install Django
+django-admin startproject name
+```
+```bash
 python manage.py makemigrations
 ```
 
